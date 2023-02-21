@@ -1,5 +1,9 @@
 # Simple-Face-Recognition_Computer-vision
 An individual project in Computer vision using OpenCV and face_recognition modules in Python 3.9. 
+<br />
+The application only recognises faces found in supplied images in Faces directory.
+<br />
+Provided images of president Andrzej Duda and actor Daniel Olbrychski.
 
 # Requirements
 pip install opencv-python <br />
