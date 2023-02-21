@@ -14,4 +14,4 @@ pip install numpy <br />
 
 If facing issues with dlib installation, you might have to download a dlib wheel from GitHub or other online sources and install it directly from there. 
 
-Created thanks to (https://www.youtube.com/watch?v=tl2eEBFEHqM "Idently") account on YouTube.
+Created thanks to [Idently](https://www.youtube.com/watch?v=tl2eEBFEHqM) account on YouTube.
